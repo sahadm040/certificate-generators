@@ -1,0 +1,25 @@
+.sidebar-main {
+    width: 245px;
+    min-height: 100vh;
+    background-color: #FFFFFF
+}
+
+.side-ul {
+    list-style: none;
+    margin-left: -30px;
+
+}
+
+li {
+    list-style-type: none;
+}
+.list {
+    display: flex;
+}
+.link {
+    text-decoration: none;
+    color: black;
+}
+.list-name{
+    margin-bottom: inherit;
+}
