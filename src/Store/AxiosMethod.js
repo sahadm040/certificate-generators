@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASEURL = "http://api.certificates.edisonvalley.com/api/v1";
+const BASEURL = "https://api.certificates.edisonvalley.com/api/v1";
 const loacalUrl = "http://192.168.1.121.3000/api/v1";
 
 export const AxiosApi = axios.create({
