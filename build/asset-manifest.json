@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb282584.css",
+    "main.js": "/static/js/main.c03e66c0.js",
+    "static/js/787.f7be294c.chunk.js": "/static/js/787.f7be294c.chunk.js",
+    "static/media/nasif.png": "/static/media/nasif.5bbef480fabe54eee397.png",
+    "static/media/osperb.png": "/static/media/osperb.d6f2bb184a58dd2dccf8.png",
+    "static/media/Xanthrone.png": "/static/media/Xanthrone.bf261ee4485f36c5a54f.png",
+    "static/media/picwish.png": "/static/media/picwish.f263c497e25316f4fa0b.png",
+    "static/media/certificate.png": "/static/media/certificate.c0b77b7568c7afae35be.png",
+    "static/media/edisonvalleylogo.png": "/static/media/edisonvalleylogo.df2070201892a8fc1c5a.png",
+    "static/media/Edisonvalleybulbb.png": "/static/media/Edisonvalleybulbb.a65f483c7bdaa04ef8dc.png",
+    "static/media/Edisonvalleybulb.png": "/static/media/Edisonvalleybulb.122e72152c61b76bc938.png",
+    "static/media/cerback.png": "/static/media/cerback.c8dfcae7d6a402bb14cb.png",
+    "static/media/studentview.png": "/static/media/studentview.a65a1c47aced5131f417.png",
+    "static/media/dashphoto.png": "/static/media/dashphoto.b1832a2f8b1c66e5779f.png",
+    "static/media/cdesig.png": "/static/media/cdesig.28a3f482167ff8dc33a5.png",
+    "index.html": "/index.html",
+    "main.cb282584.css.map": "/static/css/main.cb282584.css.map",
+    "main.c03e66c0.js.map": "/static/js/main.c03e66c0.js.map",
+    "787.f7be294c.chunk.js.map": "/static/js/787.f7be294c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb282584.css",
+    "static/js/main.c03e66c0.js"
+  ]
+}
